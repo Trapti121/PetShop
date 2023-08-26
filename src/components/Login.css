@@ -1,0 +1,85 @@
+body.login-body {   
+     background-image: url('../Pet_Img3.jpg');
+    background-repeat: no-repeat;
+    background-size:100% ;
+}
+
+.Box{
+    display:flex;
+}
+/* .Imge{
+    margin-top: 5em;
+    margin-left: 20em;
+    margin-bottom: auto;
+} */
+.Form{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10em;
+    /* padding: auto; */
+    width:51em;
+    opacity:0.8;
+    margin-left :24em ;
+    border: black;
+    background-color: rgb(52, 50, 49);
+    height: 25em;
+}
+.Form label {
+    color: #ffffff;
+    font-weight: bold;
+    position: inherit;
+    align-items: left;
+    justify-self: start;
+  }
+  .Form h1{
+    color: #ffffff;
+    margin-bottom: 1.5em;
+  }
+  .Form input {
+    width: 30em;
+    padding: 10px;
+    margin: 20px;
+    background-color: #ffffff;
+    color: #ffffff;
+    /* margin:auto; */
+    border-radius: 4em;
+    display: flex;
+  }
+  
+  .Form button {
+    background:rgb(0, 7, 9);
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    margin: 2em;
+    border-radius: 2.5em;
+    cursor: pointer;
+  }
+  .Form button a{
+    text-decoration: none;
+    color: #9e9d9d;
+  }
+  @media screen and (max-width: 1040px) {
+    body.login-body {   
+     background-image: none;
+     background-color: rgb(244, 160, 179);
+ }
+ .Form{
+  position:absolute;
+  padding: auto;
+  right:0.2em;
+  width:20em;
+  
+  text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 10em;
+    margin: 25px 1px 75px 10px;
+    padding: auto
+}
+  }
+ 
