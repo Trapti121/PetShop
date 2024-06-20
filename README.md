@@ -1,11 +1,18 @@
-![Screenshot (887)](https://github.com/Trapti121/PetShop/assets/102005515/127a79a0-d4e0-4c05-81d6-2fce40c7b3a5)# Getting Started with Create React App
+# Getting Started with Create React App
 #OUTPUT
 
 ![Screenshot (884)](https://github.com/Trapti121/PetShop/assets/102005515/747bf907-8fd7-4299-a1bd-75dd49f64c0e)
+
 ![Screenshot (878)](https://github.com/Trapti121/PetShop/assets/102005515/96b8562a-dff3-47b6-a034-f64e31cf862f)
+
 ![Screenshot (885)](https://github.com/Trapti121/PetShop/assets/102005515/eeeb8b37-97d0-445a-86c5-9ef27062820a)
+
 ![Screenshot (879)](https://github.com/Trapti121/PetShop/assets/102005515/4701263f-f089-4792-b1b9-a82e55da8969)
+
 ![Screenshot (887)](https://github.com/Trapti121/PetShop/assets/102005515/7c01a526-71d0-4abc-900e-0464f67a1dc9)
+
+![Screenshot (887)](https://github.com/Trapti121/PetShop/assets/102005515/127a79a0-d4e0-4c05-81d6-2fce40c7b3a5)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
