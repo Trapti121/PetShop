@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 #OUTPUT
-![Screenshot (582)](https://github.com/Trapti121/DBMS_HCI/assets/102005515/057d098a-0649-4251-9981-cbdb2951432d)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
