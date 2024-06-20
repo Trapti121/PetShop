@@ -11,7 +11,6 @@
 
 ![Screenshot (887)](https://github.com/Trapti121/PetShop/assets/102005515/7c01a526-71d0-4abc-900e-0464f67a1dc9)
 
-![Screenshot (887)](https://github.com/Trapti121/PetShop/assets/102005515/127a79a0-d4e0-4c05-81d6-2fce40c7b3a5)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
