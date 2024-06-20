@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 #OUTPUT
 
+![Screenshot (881)](https://github.com/Trapti121/PetShop/assets/102005515/23fbca1a-40f5-4546-ba9d-a6de84764100)
+
 ![Screenshot (884)](https://github.com/Trapti121/PetShop/assets/102005515/747bf907-8fd7-4299-a1bd-75dd49f64c0e)
 
 ![Screenshot (878)](https://github.com/Trapti121/PetShop/assets/102005515/96b8562a-dff3-47b6-a034-f64e31cf862f)
